@@ -1,2 +1,2 @@
 # Python
-My Python repository
+Python repository
