@@ -1,0 +1,1 @@
+#verilen bir tarihin yılın kaçıncı günü olduğunu bulan program

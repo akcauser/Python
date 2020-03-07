@@ -1,0 +1,1 @@
+#çarpım tablosunu ekrana yazdıran python örneği
